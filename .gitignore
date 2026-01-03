@@ -10,6 +10,7 @@ __pycache__/
 *.log
 *.ckpt
 *.pth
+*.pt
 
 # Data dumps
 *.csv
@@ -25,3 +26,4 @@ Thumbs.db
 /saved_models/
 /cifar10/
 /runs/
+checkpoints*/ 
